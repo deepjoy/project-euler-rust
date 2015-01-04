@@ -1,0 +1,4 @@
+[root]
+name = "project-euler-rust"
+version = "0.0.1"
+
